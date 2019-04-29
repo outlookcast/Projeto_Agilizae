@@ -1,0 +1,5 @@
+Instalar  npm pelo site: https://www.npmjs.com/
+Abrir a pasta do projeto no terminal.
+Rodar o comando "npm create-react-app my-app".
+Rodar o comando "npm install --save react-router-dom"
+Rodar o comando "npm start"
