@@ -1,0 +1,25 @@
+.imagemBottom {
+    background-image: url('../img/imagem.jpg') !important;
+    padding-top: 95px !important;
+    padding-bottom: 95px !important;
+    margin-bottom: 0px !important;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 21%;
+}
+
+.linhaTop {
+    position: relative;
+    width: 80%;
+    height: 4px;
+    right: 10%;
+    left: 10%;
+    background-color: teal;
+}
+
+.formularioCliente {
+    padding-top: 30px !important; 
+}
